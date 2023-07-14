@@ -5,7 +5,7 @@
     "isSubtitle": false,
     "rules": [
       "It is your responsibility to remain informed of any rule changes on our website or Discord.",
-      "You are not allowed to play any content that is under copyright protection (DMCA), such as DMCA protected movies and music.",
+      "You are not allowed to play any content that is under copyright protection (DMCA), such as DMCA protected movies and music. Covers must have appropriate permissions from rights holders.",
       "You must have a working, clear microphone.",
       "Erotic Roleplay (ERP) is not allowed. This includes posting nudity and lewd content.",
       "Do not influence others to break rules, you will receive a similar punishment.",
@@ -16,7 +16,8 @@
       "Treat each other with respect, everyone is equal.",
       "Any sort of discrimination is not tolerated, this may result in a permanent removal on the first offense.",
       "Using derogatory terms such as, but not limited to the word “retard”, is a bannable offense.",
-      "Attacking members in other Discord servers, YouTube, Twitter, etc. is prohibited and punishable."
+      "Attacking members in other Discord servers, YouTube, Twitter, etc. is prohibited and punishable.",
+      "To ensure a healthy and inclusive environment for all members, content creators are expected to actively moderate their communities. Failure to do so, which includes neglecting to prevent members from engaging in attacks or other harmful behavior, may lead to a ban from the community. We prioritize creating a safe and respectful space, and your cooperation in maintaining these standards is greatly appreciated."
     ]
   },
   {
@@ -55,8 +56,8 @@
       "Players are not allowed to create new characters with the intent to transfer the starter money over to another character. All involved parties breaking this rule will have all their money revoked from them and banned. You are also not allowed to transfer any assets your character has accumulated to any other character for any reason.",
       "Police, DOC & EMS are not allowed to be corrupt. An example of such would be giving away or selling equipment.",
       "Make sure you separate your characters. They do not know each other, they do not know where your weed location is, who your friends/enemies are, etc... Other characters you create are not your “cousin”",
-      "Anything in Discord that starts with RP- is in character. I.e #rp-instagram. Anything posted there means evidence or subject for search and can be used as proof.",
-      "When you are incapacitated and taken to the hospital, revived by pressing E, you must not return to the RP scenario you were previously in for at least 60 mins.",
+      "Character names must adhere to a serious and appropriate tone. The use of meme names is not allowed and may result in disciplinary action or a name change without prior notice.",
+      "Anything in Discord that starts with RP- is in character. I.e #rp-events. Anything posted there means evidence or subject for search and can be used as proof.",
       "You are not allowed to have multiple characters that are affiliated with the same circle/gang. You must separate your RP.",
       "If a player has a camera on their character, they can use recordings as legal evidence, otherwise, they cannot.",
       "Serial Killers/Robots/Paranormal Characters, etc must be approved by the staff team via a Discord ticket.",
@@ -88,7 +89,7 @@
       "Exploiting client and/or server bugs is stricly prohibited. Abusing an exploit will result in a ban. Anything gained from an exploit will also be removed.",
       "Camping animal and vehicle spawns are a form of exploitation. Allow things to occur naturally, do not go back and forth from a known spot knowing that an animal will appear.",
       "Circumventing the emote cooldown by using the F8 menu or any other method is not allowed.",
-      "All bugs must be reported on the Discord!"
+      "All bugs must be reported on the Github!"
     ]
   },
   {
@@ -135,6 +136,7 @@
     "isSubtitle": true,
     "rules": [
       "Players should use the Discord ticketing system to report players, whether it be a past or present incident.",
+      "Using /report is not a replacement for the ticketing system.  Ensure that you are still using the ticket system when you are out of roleplay.",
       "All necessary information and evidence must be given with the report.",
       "Please allow up to a week for your report to be processed, though the usual turnaround is 24 hours.",
       "If a player thinks that a staff member is abusing their powers, the player may submit a player report using a Discord Ticket.",
@@ -158,7 +160,8 @@
       "All information for gangs and on how to apply can be found in the Gang Handbook: https://gangbook.echorp.net",
       "You cannot sit idle at delivery, start, etc... spots when taxing",
       "To identify/catch people doing the job which you tax for, you must put in a considerate amount of effort and provide a high quality Roleplay experience for all parties involved. An example of not doing this is pulling up to a van aiming guns out of your car asking them to pay.",
-      "At any time, staff can revoke taxing for a specific job if the overall reward made from taxing an absurd amount."
+      "At any time, staff can revoke taxing for a specific job if the overall reward made from taxing an absurd amount.",
+      "You may not use gang specific clothing, flags, or liveries that you would not realistically be able to acquire unless they have been obtained through roleplay."
     ]
   },
   {
@@ -166,23 +169,25 @@
     "link": "#criminal_activities",
     "isSubtitle": true,
     "rules": [
-      "The set limit to doing a criminal activity is 5 criminals. The term \"criminal activities\" refers to anything that is breaking a law, not limited to robberies.",
+      "The set limit to doing a criminal activity is 5 criminals, 6 for Oil Rig. The term \"criminal activities\" refers to anything that is breaking a law, not limited to robberies.",
       "5-man rule - Criminal activities are limited to 5 players max at a time. This means that no outside help is allowed in any sort of way. Whoever you bring to the scenario is who you have until it is completely played out. This includes anyone giving information to the scenario (lookouts, radio comms, etc.). Gangs are not allowed to take a scenario to their turf or near their turf where they would be in violation of the 5 man rule.",
       "Mechanics can not use their F1 menu or any other ability gained by the job during criminal activities.",
       "Separate groups cannot work together and hit different objectives together. Both groups must adhere to the respective timer.",
       "Prison Transports are considered a separate scenario than the original scenario that caused the arrest. You are allowed a new group of five when attacking the transport.",
       "Fake hostages are not allowed. You must plan robberies the correct way!",
-      "Fleeca, bank trucks, G6, Paleto Bank and the Pacific Standard Vault require you to have an in-depth robbery plan. An example of a not-so-in-depth robbery would be getting in a car and driving until you lose the cops. Be creative!",
-      "After commiting a store robbery/car boost, you must impose a self-cooldown of 45 mins, likewise... Vangelico and the Art Gallery are 90 Mins, Bank Trucks/Fleeca Robberies/Drug Runs are 120 Mins, Paleto Bank/Pacific Standard is 180 Mins, These cooldowns are not individual. For example, if you hit a Fleeca Bank, you cannot go rob a store right after. You must wait out the full cooldown before participating in any other robbery mentioned before.",
+      "Drug Runs, Fleeca, G6, Paleto Bank and the Pacific Standard Vault require you to have an in-depth robbery plan. An example of a not-so-in-depth robbery would be getting in a car and driving until you lose the cops. Be creative!",
+      "After commiting a store robbery/car boost, you must impose a self-cooldown of 45 mins, likewise... Vangelico are 90 Mins, Fleeca Robberies/Drug Runs are 120 Mins, Paleto Bank/Pacific Standard is 180 Mins, These cooldowns are not individual. For example, if you hit a Fleeca Bank, you cannot go rob a store right after. You must wait out the full cooldown before participating in any other robbery mentioned before.",
       "Players are allowed to rob other players by either roleplaying it or by forcing them to raise their hands. There is no limit on how much money or items you can take from a single robbery.",
-      "Scamming must be done in-game by roleplaying it. Scamming people through out-of-character channels is not allowed, this includes scamming someone by telling them the incorrect server command for personal gain.",
+      "Scamming must be done in-game by roleplaying it. You must have a roleplay reason and an expectation of continued roleplay before scamming someone.  Scamming purely for profit and/or to only cause conflict is not considered a valid reason.",
+      "Scamming people through out-of-character channels is not allowed, this includes scamming someone by telling them the incorrect server command for personal gain.",
       "Any scams involving accessing any menus or teleporting (excusing the F2 inventory menu) is prohibited.",
       "If a vital part of your scam is relying on a server function not working properly, it is not allowed. You cannot use a server mechanic to your advantage.",
       "Any place with a \"teleport\" are places you are prohibited to rob players.",
-      "You cannot interfere in robberies. For example, if X is doing a Pacific Standard heist, you cannot enter the bank without permission from X party. A gang is allowed to interfere with a store robbery if the establishment that is being robbed falls within their turf. You are also not allowed to interfere under the reasoning of \"revenge\", this includes, but is not limited to interferring because your friend was taken hostage",
+      "You cannot interfere in robberies. For example, if X is doing a Pacific Standard heist, you cannot enter the bank without permission from X party. A gang is allowed to interfere with a store robbery if the establishment that is being robbed falls within their turf. Store owners may also interfere if the store they own is being robbed.",
+      "You are also not allowed to interfere under the reasoning of \"revenge\", this includes, but is not limited to interferring because your friend was taken hostage",
       "You may choose to follow people who have just robbed the bank with the intention to rob the money for yourself. You must, however, have RP before resorting to shootouts.",
       "You cannot rob government employees (PD, DOJ, EMS) strictly for the purpose of obtaining their belongings.",
-      "You are not allowed to rob Pacific Standard, Paleto Bank, Fleeca Banks, and Vangelico Jewelry Store 60 minutes before restart and 30 minutes post restart.",
+      "You are not allowed to rob Pacific Standard, Paleto Bank, Fleeca Banks, and Vangelico Jewelry Store, or begin a Drug Run 60 minutes before restart and 30 minutes post restart.",
       "You are not allowed to commit all other crime 30 minutes before and after server restart, including house robbing, selling drugs, robbing other players, shooting weapons, etc.",
       "In the event of an unscheduled server restart or server crash, wait 15 minutes before committing any crimes.",
       "Camping or staking out an area where you can start/commit a crime is not allowed. You are allowed to check the area/availability, but afterwards you must leave the area for at least 5 minutes before returning.",
@@ -219,9 +224,8 @@
     "link": "#new_life_rule",
     "isSubtitle": true,
     "rules": [
-      "New Life Rule: Triggered once you are incapacitated and respawn at the hospital, the cause of death is irrelevant. Getting yourself downed is not considered as dying, therefore once you get treated by EMS, the new life rule is not triggered. You lose all memory from the scenario if you respawn by using “E”.",
-      "After you are incapacitated, you cannot talk about your death through in-character channels unless an individual/party informs you through RP.",
-      "Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes and they cannot take hostile action against the party responsible for their death for 60 minutes, they also lose every roleplay reason to take hostile action against the party responsible for their death.",
+      "New Life Rule: Triggered once you are incapacitated and respawn or are treated at the hospital, the cause of incapactation is irrelevant.",
+      "Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes and they cannot take hostile action against the party responsible for their death for 60 minutes.",
       "Another player is not able to decide when another permanently kills their character, this is decided upon OOC and once agreed they can commence with the scenario. You are allowed to plan out a scenario OOC if you decide on permaing your character.",
       "If you are downed in a scenario and it has ended, you are not allowed to return to the area of the scene to collect evidence, loot bodies, etc."
     ]
@@ -282,7 +286,7 @@
       "The owner of said private discord must properly outline which channels are in character channels.",
       "Businesses discord's must place their Discord invite link in their documents channel within the Main EchoRP Business Discord.",
       "Gangs with discords must place their links in their sections within the Main EchoRP Gang Discord.",
-      "If requested, staff can request access to your EchoRP related discord, and must be given administrative access to ensure of no metagaming. Refusal will effect your business or gang.",
+      "If requested, staff can request access to your EchoRP related discord, and must be given administrative access to ensure of no metagaming. Refusal will affect your business or gang.",
       "Any Discord related to Echo with over 100 members must be owned by an EchoRP admin+",
       "You must be able to provide proper and full screenshots of discord conversations if staff is to request them as evidence for a report.",
       "You cannot remove a staff member (that is there to supervise) from an EchoRP related discord via a kick or ban. (Unless said staff member is no longer apart of your group or gang.)"
@@ -332,7 +336,8 @@
     "link": "#value_of_life",
     "isSubtitle": true,
     "rules": [
-      "Value Of Life: You must value your life similar to the way you do your own life in real life. For example, you must not engage in a gunfight for the fun of it, knowing that you would not do it IRL. At all times you must value your life as if it were your last. If you are at a clear disadvantage, for example, a gun pointed to the back of your head whilst you are looking the other direction, you must comply with their demands.",
+      "Value Of Life: At all times you must value your life as if you have only one.",
+      "If you are at a clear disadvantage, for example, a gun pointed to the back of your head whilst you are looking the other direction, you must comply with their demands.",
       "If you are outnumbered 3 to 1 you must comply. This does not mean that you do not have an option to try and escape. When possible and in a correct situation, you have the option to try and escape.",
       "A bad example of an attempt to escape is if you are being held hostage in front of a bank and decide to run away even though the person has a firearm ready."
     ]
