@@ -223,7 +223,6 @@
     "rules": [
       "New Life Rule: Triggered once you are incapacitated and respawn or are treated at the hospital, the cause of incapactation is irrelevant.",
       "Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes and they cannot take hostile action against the party responsible for their death for 60 minutes.",
-      "The decision to permanently kill a character is a matter of OOC (out-of-character) agreement between the involved players. Once an agreement has been reached OOC, the participants may proceed with the planned scenario. This approach ensures that all players have the opportunity to contribute to the narrative and have agency over the outcomes of their characters.",
       "If you are downed in a scenario and it has ended, you are not allowed to return to the area of the scene to collect evidence, loot bodies, etc."
     ]
   },
