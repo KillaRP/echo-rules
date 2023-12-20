@@ -328,5 +328,14 @@
       "In situations where you are outnumbered by a significant margin, such as being outnumbered 3 to 1, it is generally expected that you comply with the group's demands. However, it is important to note that this does not eliminate your option to try and escape if the situation allows for it. While attempting to escape may be a viable option in certain circumstances, it should be done in a realistic manner.",
       "A bad example of an attempt to escape would be if you are being held hostage in front of a bank and, despite the person holding a firearm ready to use, you suddenly decide to run away without any reasonable chance of success."
     ]
+  },
+  {
+    "title": "Economy Rules",
+    "link": "#economy",
+    "isSubtitle": true,
+    "rules": [
+      "Asset (not limited to vehicles) limitations enforced by the LSRS application must never be bypassed and selling outside of the script in place is considered exploiting.",
+      "Example: Travis bought an import for $360k. He is now selling it to Taylor. They have agreed to sell it for $1M. Taylor sends Travis a $640k direct transfer and then accepts the sale through the app for the remaining amount that the script allows for. In doing so, the buyer has lower asset fees despite buying the car for a higher amount."
+    ]
   }
 ]
