@@ -188,7 +188,10 @@
       "Committing any form of crime, including house robbing, selling drugs, robbing other players, and shooting weapons, is strictly prohibited within the 30 minutes before and after a server restart. This rule is in place to ensure a smooth transition during server restarts and prevent disruptive activities that could impact the overall gameplay experience.",
       "In the event of an unscheduled server restart or server crash, you must wait for a period of 15 minutes before engaging in any criminal activities.",
       "Camping or staking out an area in order to start or commit a crime is strictly prohibited within our community. While it is permissible to check the area or assess its availability, it is necessary to leave the area for at least 5 minutes before returning.",
-      "Regardless of the scenario type, there is a 90-minute shooting cooldown."
+      "Regardless of the scenario type, there is a 90-minute shooting cooldown.",
+      "Only two traphouses can be owned by any singular group at one time.",
+      "In the event of conflict over a traphouse, the group that currently owns it can have a maximum of five members present at the scene.",
+      "Shooting or otherwise incapacitating the traphouse locals to prevent players from obtaining the code is considered powergaming and is not allowed."
     ]
   },
   {
