@@ -204,14 +204,6 @@
     "rules": []
   },
   {
-    "title": "Off-Limits Areas",
-    "link": "#offlimits_areas",
-    "isSubtitle": true,
-    "rules": [
-      "Fort Zancudo and the aircraft carriers are off-limits, as you would not have access to these places in real life due to their heavy security."
-    ]
-  },
-  {
     "title": "Deathmatch, Revenge Killing & Kill On Sight",
     "link": "#deathmatch_revenge_killing_kos",
     "isSubtitle": true,
@@ -343,6 +335,17 @@
       "Creating new characters with the purpose of transferring starter money or assets to another character is strictly prohibited within our community. Any individuals found engaging in such activities will face consequences, including the revocation of all money involved and subsequent bans. Additionally, transferring accumulated assets from one character to another, regardless of the reason, is also not allowed. We enforce these rules to ensure fairness and maintain a balanced economy within our community.",
       "Asset (not limited to vehicles) limitations enforced by the LSRS application must never be bypassed and selling outside of the script in place is considered exploiting.",
       "Example: Travis purchased an import for $360k. He is now selling it to Taylor at an agreed price of $1,000,000. Taylor sends Travis a $640,000 direct transfer and then accepts the sale through the app for the remaining amount that the script allows for. In doing so, the buyer has lower asset fees despite buying the car for a higher amount."
+    ]
+  },
+  {
+    "title": "Aircraft Rules",
+    "link": "#aircraft",
+    "isSubtitle": true,
+    "rules": [
+      "The use of aircraft is considered a privilege and must be handled with care. Any unrealistic or low-quality use of aircraft, such as intentionally colliding with other helicopters, is strictly prohibited.",
+      "Aircraft should not be used as a means to easily evade police capture. Ensure that all aviation activity follows a realistic and roleplay-appropriate approach.",
+      "Using aircraft to rapidly deploy or \"hot drop\" into gang conflicts, wars, or similar scenarios is not allowed.",
+      "Aircraft should be used for legitimate purposes such as reconnaissance, transportation to and from the island, or other non-violent activities."
     ]
   }
 ]
